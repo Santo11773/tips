@@ -1,4 +1,4 @@
-No. 29 voting request was initiated to vote on No. 32 proposal at 11:30, February 21, 2020 (Singapore time). 
+29 voting request was initiated to vote on No. 32 proposal at 11:30, February 21, 2020 (Singapore time). 
 
 After No. 32 proposal is approved, four new features of TVM (TRON Virtual Machine) will be opened: support for parallel signature verification, multi-signature verification, judge whether the address is the contract address and support transfer TRX to a nonexisting address in the smart contract. This proposal will further enrich the application scenarios of smart contracts.
 
