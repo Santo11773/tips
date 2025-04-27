@@ -1,4 +1,4 @@
-TCp35JDVHAbeP6aoq3mtZStXkKdV8GTo24
+
 ticp: 1
 title: SPV proof support
 author: @lvs007
